@@ -168,3 +168,7 @@ CHANNEL_LAYERS = {
         }
     }
 }
+
+FIXTURE_DIRS = (
+    os.path.join(BASE_DIR, 'fixtures'),
+)
