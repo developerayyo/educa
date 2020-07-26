@@ -22,7 +22,6 @@ hyperlink==19.0.0
 idna==2.10
 incremental==17.5.0
 msgpack==1.0.0
-mysqlclient==2.0.1
 Pillow==7.2.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -41,3 +40,4 @@ txaio==20.4.1
 urllib3==1.25.9
 uWSGI==2.0.19.1
 zope.interface==5.1.0
+mysqlclient==2.0.1
