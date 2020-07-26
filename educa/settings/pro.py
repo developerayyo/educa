@@ -33,7 +33,7 @@ DATABASES = {
         # 'OPTIONS': {
         #     'read_default_file': '/etc/mysql/my.cnf',
         # },
-        'NAME': '',
+        'NAME': 'educa',
         'USER': 'educa',
         'PASSWORD': 'mctu3CKsYGpb9oMQEntT',
         'HOST': 'educa.cdrigzea7gxo.us-west-2.rds.amazonaws.com',
